@@ -1,5 +1,6 @@
 Hello World !
 
-Ligne added to test Git fetch fonction in CLI
+Line added to test Git pull fonction in CLI
+Line added to test Git push fonction in CLI
 
 Julien O.
